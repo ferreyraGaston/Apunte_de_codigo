@@ -1,10 +1,10 @@
 ## Repositório com códigos dos Reels
 
-### Para mais conteúdo, siga o @programador.cs no instagram.
 
-Clique na imagem para ser redirecionado ao código:
 
-Click on the image to be redirected to the code:
+Haga clic en la imagen para ser redirigido al código:
+
+Haga clic en la imagen para ser redirigido al código:
 
 <p float="left">
 
@@ -283,6 +283,6 @@ Click on the image to be redirected to the code:
     <img src="https://user-images.githubusercontent.com/28737079/240961772-0af89f26-98ab-414c-a692-5cb369293b38.jpg"  width="300"/>
 </a>
 
-- Neste repositório será inserido os códigos dos reels postados no perfil do instagram.
-- Os projetos dentro do repositório estão organizados em pastas com o mesmo título da postagem.
-- Sinta-se livre utilizar os códigos.
+- En este repositorio se insertarán los códigos de los carretes publicados en el perfil de Instagram.
+- Los proyectos dentro del repositorio están organizados en carpetas con el mismo título que la publicación.
+- Siéntete libre de usar los códigos.
